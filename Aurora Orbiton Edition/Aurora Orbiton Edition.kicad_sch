@@ -11877,7 +11877,7 @@
 	)
 	(text "LED is the LTST-C193XXXX, \nrequires 5mA of forward \ncurrent\n\n"
 		(exclude_from_sim no)
-		(at 341.376 236.982 0)
+		(at 341.63 240.284 0)
 		(effects
 			(font
 				(size 1.27 1.27)
